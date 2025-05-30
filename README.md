@@ -41,7 +41,7 @@ This project demonstrates:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/banking-system-transaction-management.git
+git clone https://github.com/JV-Vigneesh/banking-system-transaction-management.git
 cd banking-system-transaction-management
 ````
 
