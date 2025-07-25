@@ -5,6 +5,10 @@ A simple React-based banking system that simulates core banking transactions —
 
 ---
 
+![Screenshot](images/1.png)
+
+---
+
 ## 📌 Features
 
 - Deposit money into an account
